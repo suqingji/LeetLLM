@@ -1,0 +1,6 @@
+numpy
+pandas
+pyarrow
+pyyaml
+tqdm
+maturin>=1.0
